@@ -1,0 +1,14 @@
+Learning Perl, 7th Edition
+~ Randal L. Schwartz, brian d foy, Tom Phoenix
+  O'Reilly Media, Inc.
+  (October 2016)
+
+A tutorial book, covering how you could spend the first 30 to 40 hours with Perl.
+The seventh edition covers up to Perl 5.24. Reflecting years of classroom testing
+and experience, this edition is packed with exercises that let you practice the
+concepts while you follow the text.
+
+Buy the paperbook
+~ amazon.com   - https://www.amazon.com/exec/obidos/ASIN/1491954329/
+~ amazon.co.uk - https://www.amazon.co.uk/exec/obidos/ASIN/1491954329/
+~ powells.com  - https://www.powells.com/book/learning-perl-9781491954324
