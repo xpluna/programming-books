@@ -3,11 +3,17 @@ A modern programming language
 that makes developers happier.
 ------------------------------
 
+Head First Kotlin
+ ~ Dawn Griffiths, David Griffiths
+   O'Reilly Media, Inc. (2019)
+
 Complete introduction to coding in Kotlin. This hands-on book helps you learn
 the Kotlin language with a unique method that goes beyond syntax and how-to manuals
 and teaches you how to think like a great Kotlin developer.
 
-You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming.
+You’ll learn everything from language fundamentals to collections, generics, lambdas,
+and higher-order functions. Along the way, you’ll get to play with both object-oriented
+and functional programming.
 
 If you want to really understand Kotlin, this is the book for you.
 
