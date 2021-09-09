@@ -18,5 +18,5 @@ and functional programming.
 If you want to really understand Kotlin, this is the book for you.
 
 Buy the paperback
- ~ oreilly - https://shop.aer.io/oreilly/p/head-first-kotlin/9781491996690-9149
- ~ amazon  - https://www.amazon.com/_/dp/1491996692?tag=oreilly20-20
+ ~ shop.aer.io/oreilly - https://shop.aer.io/oreilly/p/head-first-kotlin/9781491996690-9149
+ ~          amazon.com - https://www.amazon.com/_/dp/1491996692?tag=oreilly20-20
