@@ -1,1 +1,16 @@
+------------------------------
+A modern programming language
+that makes developers happier.
+------------------------------
 
+Complete introduction to coding in Kotlin. This hands-on book helps you learn
+the Kotlin language with a unique method that goes beyond syntax and how-to manuals
+and teaches you how to think like a great Kotlin developer.
+
+You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming.
+
+If you want to really understand Kotlin, this is the book for you.
+
+Buy the paperback
+ ~ oreilly - https://shop.aer.io/oreilly/p/head-first-kotlin/9781491996690-9149
+ ~ amazon  - https://www.amazon.com/_/dp/1491996692?tag=oreilly20-20
