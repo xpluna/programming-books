@@ -1,1 +1,14 @@
+------------------------------------------
+A general-purpose programming language
+An extension of the C programming language
+------------------------------------------
 
+Beginning C++17: From Novice to Professional, 5th Edition
+
+Learn how to program using the updated C++17 language. You'll start with the
+basics and progress through step-by-step examples to become a working C++ programmer.
+All you need are Beginning C++17 and any recent C++ compiler and you'll soon be
+writing real C++ programs. There is no assumption of prior programming knowledge.
+
+Buy the paperback
+ ~ amazon.com - https://www.amazon.in/Beginning-C-17-Novice-Professional/dp/1484233654
