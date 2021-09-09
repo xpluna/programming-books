@@ -16,3 +16,4 @@ Buy the paperback
 ~ amazon.com   - https://www.amazon.com/exec/obidos/ASIN/1491954329/
 ~ amazon.co.uk - https://www.amazon.co.uk/exec/obidos/ASIN/1491954329/
 ~ powells.com  - https://www.powells.com/book/learning-perl-9781491954324
+ 
