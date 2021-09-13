@@ -1,1 +1,33 @@
+-------------------------------------------
+An interpreted high-level general-purpose
+programming language. It is used to build
+websites and software, automate tasks, and
+conduct data analysis.
+-------------------------------------------
 
+Python Crash Course 2nd Edition
+ ~ Eric Matthes
+   no starch press 2019
+
+A Hands-On , Project - Based Introduction to Programming
+
+Buy the paperback
+ ~ amazon.com - https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1593279280
+
+Automate The Boring Stuff with Python 2nd Edition
+ ~ Al Sweigart
+   no starch press 2020
+
+Practical Programming for Total Beginners
+
+Buy the paperback
+ ~ amazon.com - https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/
+
+Python One-Liners
+ ~ Christian Mayer
+   no starch press 2020
+
+Write Concise, Eloquent Python Like a Professional
+
+Buy the paperback
+ ~ amazon.com - https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional-ebook/dp/
