@@ -6,6 +6,7 @@
  <li>Kotlin</li>
  <li>C++ 17</li>
  <li>C++ 20</li>
+ <li>C# 5</li>
 </ul>
 
 WIP
