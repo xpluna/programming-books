@@ -1,0 +1,15 @@
+-----------------------------------------------
+A general-purpose, multi-paradigm language.
+Static typing, strong typing, lexically scoped,
+and object-oriented
+-----------------------------------------------
+
+Pro C# 7: With .NET and .NET Core
+  ~ Andrew Troelsen, Philip Japikse
+
+This essential classic title provides a comprehensive
+foundation in the C# programming language (version 7)
+and the frameworks it lives in.
+
+Buy eBook
+ ~ apress.com - https://www.apress.com/gp/book/9781484230183

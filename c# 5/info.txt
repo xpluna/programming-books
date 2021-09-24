@@ -6,7 +6,7 @@ and object-oriented
 
 Fundamentals of Computer Programming with C#
 
-Complete course on C#. Made for beginners as
-well as the advanced
+Complete course on C# (version 5).
+Made for beginners as well as the advanced
 
 This book is free! Check out Nakov's site - https://nakov.com/
