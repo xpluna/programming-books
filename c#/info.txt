@@ -1,0 +1,12 @@
+-----------------------------------------------
+A general-purpose, multi-paradigm language.
+Static typing, strong typing, lexically scoped,
+and object-oriented
+-----------------------------------------------
+
+Fundamentals of Computer Programming with C#
+
+Complete course on C#. Made for beginners as
+well as the advanced
+
+This book is free! Check out Nakov's site - https://nakov.com/
