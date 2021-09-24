@@ -7,6 +7,7 @@
  <li>C++ 17</li>
  <li>C++ 20</li>
  <li>C# 5</li>
+ <li>C# 7</li>
 </ul>
 
 WIP
